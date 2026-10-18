@@ -1,5 +1,4 @@
-Designing and implementing ai-assisted systems for infrastructure. 
-Dashboards
+Designing and implementing ai-assisted systems for infrastructure, currently working on a centralized information platform for facilities management. 
 Experimenting with automation of large projects involving multiple agents
 
 <!---
